@@ -5,8 +5,7 @@ https://github.com/2025cs05002Kavya/heart-disease-mlops
 
 ## Video Demonstration
 
-Video walkthrough link:
-https://drive.google.com/your-link
+Video walkthrough link: https://drive.google.com/file/d/1FYVNr7B0Scrmx6E9T4of45TbcZhDLWdT/view?usp=sharing
 
 ## Overview
 
