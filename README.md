@@ -1,5 +1,8 @@
 # Heart Disease Prediction MLOps Pipeline
 
+GitHub Repository Link:
+https://github.com/2025cs05002Kavya/heart-disease-mlops
+
 ## Overview
 
 This project implements an end-to-end MLOps pipeline for predicting heart disease using machine learning and modern DevOps practices.
