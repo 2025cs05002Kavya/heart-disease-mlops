@@ -81,6 +81,16 @@ The FastAPI application logs prediction results and confidence scores for monito
 
 ---
 
+Local API Testing:
+
+Run:
+uvicorn api.app:app --reload
+
+Open:
+http://127.0.0.1:8000/docs
+
+---
+
 ## Author
 
 2025cs05002Kavya
